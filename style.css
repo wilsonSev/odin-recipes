@@ -1,0 +1,17 @@
+* {
+  background-color: #F6E8DD;
+  font-family: "Funnel Display", serif;
+}
+
+.header {
+  font-size: 112px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.0;
+  color: #193564;
+}
+
+.options li a, .options li {
+  font-size: 32px;
+  color: #5182BC;
+}
