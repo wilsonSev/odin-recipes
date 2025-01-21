@@ -1,6 +1,8 @@
 * {
-  background-color: #F6E8DD;
+  background-color: #FFE8D1;
   font-family: "Funnel Display", serif;
+  color: #402E32;
+  font-size: 20px;
 }
 
 .header {
@@ -8,10 +10,33 @@
   margin-top: 10px;
   margin-bottom: 10px;
   line-height: 1.0;
-  color: #193564;
+  color: #dc793b;
+  text-align: left;
 }
 
 .options li a, .options li {
   font-size: 32px;
-  color: #5182BC;
+  color: #9a7159;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 380px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 28px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.home {
+  font-size: 24px;
 }
