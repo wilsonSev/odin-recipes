@@ -6,12 +6,14 @@
 }
 
 .header {
+  display: inline-block;
   font-size: 112px;
-  margin-top: 10px;
-  margin-bottom: 10px;
   line-height: 1.0;
   color: #dc793b;
   text-align: left;
+  margin: 80px;
+  margin-bottom: 20px;
+  margin-right: -10px;
 }
 
 .options li a, .options li {
@@ -19,13 +21,24 @@
   color: #9a7159;
 }
 
+.options li {
+  margin-left: 120px;
+}
+
 h1 {
   text-align: center;
 }
 
 img {
+  float:left;
   height: auto;
   width: 380px;
+  margin-right: 32px;
+}
+
+#brownie-img {
+  width:500px;
+  height:auto;
 }
 
 h2 {
@@ -40,3 +53,15 @@ h1 {
 .home {
   font-size: 24px;
 }
+
+.disc {
+  display: inline-block;
+  width: 800px;
+  text-align: center;
+}
+
+.layer {
+  overflow: hidden;
+  margin-bottom: 100px;
+}
+
